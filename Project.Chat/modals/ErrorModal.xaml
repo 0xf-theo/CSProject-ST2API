@@ -1,0 +1,15 @@
+﻿<Window x:Class="Project.Chat.modals.ErrorModal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project.Chat.modals"
+        mc:Ignorable="d"
+        Title="Error" Height="200" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="ErrorMessageTextBlock" FontSize="16" TextAlignment="Center" Margin="0,0,0,20"/>
+            <Button Content="OK" Width="100" Click="OkButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

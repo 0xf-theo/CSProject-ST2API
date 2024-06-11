@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\appserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\appserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\screens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\screens\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\screens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\screens\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\viewmodels\\createtopicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\viewmodels\\createtopicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\packetwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\packetwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\topicslistpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\topicslistpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\showtopicpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\showtopicpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\errorpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\errorpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\repository\\filebasedtopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\repository\\filebasedtopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\repository\\filebaseduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\repository\\filebaseduserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\repository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\repository\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\repository\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\repository\\itopicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.server\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E77ADD56-6CE2-4226-BF7E-C35AB44E49F8}|Project.Chat.Server\\Project.Chat.Server.csproj|solutionrelative:project.chat.server\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\loginauthpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\loginauthpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\sendmessagepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\sendmessagepacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat.common\\packets\\registerauthpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D977046A-E3D3-483B-BC9D-D24DB51F05ED}|Project.Chat.Common\\Project.Chat.Common.csproj|solutionrelative:project.chat.common\\packets\\registerauthpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\viewmodels\\loginregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\viewmodels\\loginregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\modals\\createtopicmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\modals\\createtopicmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\modals\\createtopicmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\modals\\createtopicmodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\modals\\errormodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\modals\\errormodal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\modals\\errormodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\modals\\errormodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\converters\\booltocolumnindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\converters\\booltocolumnindexconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\converters\\booltohorizontalalignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\converters\\booltohorizontalalignmentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|c:\\users\\shadow\\source\\repos\\project.chat.client\\project.chat\\converters\\booltomarginconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643928E4-21B8-41F6-8E94-844D62AF455A}|Project.Chat\\Project.Chat.csproj|solutionrelative:project.chat\\converters\\booltomarginconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\App.xaml.cs",
+              "RelativeToolTip": "Project.Chat\\App.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:17:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\App.xaml",
+              "RelativeDocumentMoniker": "Project.Chat\\App.xaml",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\App.xaml",
+              "RelativeToolTip": "Project.Chat\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T01:16:57.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Screens\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\Screens\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Screens\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Project.Chat\\Screens\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:16:31.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Store.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\Store.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Store.cs",
+              "RelativeToolTip": "Project.Chat\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:15:26.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketClient.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\SocketClient.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\SocketClient.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\SocketClient.cs",
+              "RelativeToolTip": "Project.Chat\\SocketClient.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAG4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:11:53.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PacketWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\PacketWrapper.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\PacketWrapper.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\PacketWrapper.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\PacketWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:08:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TopicsListPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\TopicsListPacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\TopicsListPacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\TopicsListPacket.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\TopicsListPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:07:58.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Screens\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Project.Chat\\Screens\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Screens\\MainWindow.xaml",
+              "RelativeToolTip": "Project.Chat\\Screens\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T00:43:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTopicViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\CreateTopicViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\viewModels\\CreateTopicViewModel.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\CreateTopicViewModel.cs",
+              "RelativeToolTip": "Project.Chat\\viewModels\\CreateTopicViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:49:34.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppServer.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\AppServer.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\AppServer.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\AppServer.cs",
+              "RelativeToolTip": "Project.Chat.Server\\AppServer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAFkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:52:22.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShowTopicPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\ShowTopicPacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\ShowTopicPacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\ShowTopicPacket.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\ShowTopicPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:07:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileBasedTopicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\FileBasedTopicRepository.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Repository\\FileBasedTopicRepository.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\FileBasedTopicRepository.cs",
+              "RelativeToolTip": "Project.Chat.Server\\Repository\\FileBasedTopicRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:06:49.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FileBasedUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\FileBasedUserRepository.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Repository\\FileBasedUserRepository.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\FileBasedUserRepository.cs",
+              "RelativeToolTip": "Project.Chat.Server\\Repository\\FileBasedUserRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:05:43.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Repository\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\IMessageRepository.cs",
+              "RelativeToolTip": "Project.Chat.Server\\Repository\\IMessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:05:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITopicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\ITopicRepository.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Repository\\ITopicRepository.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\ITopicRepository.cs",
+              "RelativeToolTip": "Project.Chat.Server\\Repository\\ITopicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:05:22.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Client.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Client.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Client.cs*",
+              "RelativeToolTip": "Project.Chat.Server\\Client.cs*",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAGMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:57:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Server\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Server\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Project.Chat.Server\\Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:05:11.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\Message.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Models\\Message.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:02:36.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Models\\Topic.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\Topic.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Models\\Topic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:02:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\ErrorPacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\ErrorPacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\ErrorPacket.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\ErrorPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:52:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Models\\User.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:02:35.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SendMessagePacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\SendMessagePacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\SendMessagePacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\SendMessagePacket.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\SendMessagePacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:52:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterAuthPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\RegisterAuthPacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\RegisterAuthPacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\RegisterAuthPacket.cs",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\RegisterAuthPacket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:52:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginAuthPacket.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\LoginAuthPacket.cs",
+              "RelativeDocumentMoniker": "Project.Chat.Common\\Packets\\LoginAuthPacket.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat.Common\\Packets\\LoginAuthPacket.cs*",
+              "RelativeToolTip": "Project.Chat.Common\\Packets\\LoginAuthPacket.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:52:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\viewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\MainViewModel.cs",
+              "RelativeToolTip": "Project.Chat\\viewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:50:16.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\LoginRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\viewModels\\LoginRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\viewModels\\LoginRegisterViewModel.cs",
+              "RelativeToolTip": "Project.Chat\\viewModels\\LoginRegisterViewModel.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:49:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateTopicModal.xaml",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\CreateTopicModal.xaml",
+              "RelativeDocumentMoniker": "Project.Chat\\modals\\CreateTopicModal.xaml",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\CreateTopicModal.xaml*",
+              "RelativeToolTip": "Project.Chat\\modals\\CreateTopicModal.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T00:48:19.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateTopicModal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\CreateTopicModal.xaml.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\modals\\CreateTopicModal.xaml.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\CreateTopicModal.xaml.cs",
+              "RelativeToolTip": "Project.Chat\\modals\\CreateTopicModal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:48:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorModal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\ErrorModal.xaml.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\modals\\ErrorModal.xaml.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\ErrorModal.xaml.cs",
+              "RelativeToolTip": "Project.Chat\\modals\\ErrorModal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:47:53.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorModal.xaml",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\ErrorModal.xaml",
+              "RelativeDocumentMoniker": "Project.Chat\\modals\\ErrorModal.xaml",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\modals\\ErrorModal.xaml*",
+              "RelativeToolTip": "Project.Chat\\modals\\ErrorModal.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-11T00:47:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BoolToMarginConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToMarginConverter.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\Converters\\BoolToMarginConverter.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToMarginConverter.cs",
+              "RelativeToolTip": "Project.Chat\\Converters\\BoolToMarginConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:44:08.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BoolToHorizontalAlignmentConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "RelativeToolTip": "Project.Chat\\Converters\\BoolToHorizontalAlignmentConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:43:26.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BoolToColumnIndexConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToColumnIndexConverter.cs",
+              "RelativeDocumentMoniker": "Project.Chat\\Converters\\BoolToColumnIndexConverter.cs",
+              "ToolTip": "C:\\Users\\Shadow\\source\\repos\\Project.Chat.Client\\Project.Chat\\Converters\\BoolToColumnIndexConverter.cs",
+              "RelativeToolTip": "Project.Chat\\Converters\\BoolToColumnIndexConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:42:57.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

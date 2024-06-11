@@ -1,0 +1,11 @@
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\bin\Debug\net8.0\Project.Chat.Common.deps.json
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\bin\Debug\net8.0\Project.Chat.Common.dll
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\bin\Debug\net8.0\Project.Chat.Common.pdb
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.dll
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\refint\Project.Chat.Common.dll
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\Project.Chat.Common.pdb
+C:\Users\Shadow\source\repos\Project.Chat.Client\Project.Chat.Common\obj\Debug\net8.0\ref\Project.Chat.Common.dll
