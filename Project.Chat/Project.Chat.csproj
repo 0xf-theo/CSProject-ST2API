@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Project.Chat.Common\Project.Chat.Common.csproj" />
+    <ProjectReference Include="..\Project.Chat.Common\Project.Chat.Common.csproj">
+      <ReferenceSourceTarget></ReferenceSourceTarget>
+    </ProjectReference>
   </ItemGroup>
 
 </Project>

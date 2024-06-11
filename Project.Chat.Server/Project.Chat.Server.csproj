@@ -15,4 +15,7 @@
     <ProjectReference Include="..\Project.Chat.Common\Project.Chat.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove=".gitignore" />
+  </ItemGroup>
 </Project>
